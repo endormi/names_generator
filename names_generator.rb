@@ -1,13 +1,13 @@
 #!/usr/bin/ruby
 
 # Ruby implementation of the docker container naming system
-# Code here: https:#github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
+# Code here: https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
 
 # This code prints the result to terminal
 # Example: charming-gauss
 
 left = [
-    "admiring",
+        "admiring",
 		"adoring",
 		"affectionate",
 		"agitated",
